@@ -49,5 +49,5 @@ int main()
     cout<<endl;
     copy(vecc.begin(), vecc.end(), ostream_iterator<float>(cout, " "));
     
-    return o;
+    return 0;
 }
